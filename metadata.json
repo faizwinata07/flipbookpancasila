@@ -1,0 +1,6 @@
+{
+  "name": "Jurnal Penjelajah Pancasila: Sejarah Perumusan BPUPKI & PPKI",
+  "description": "Media pembelajaran interaktif Flipbook dan naskah modul komprehensif Pendidikan Pancasila SMA Kelas 10 Bab 1 Unit 1 bertema Jurnal Penjelajah Sejarah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
